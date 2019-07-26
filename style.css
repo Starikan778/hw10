@@ -3,14 +3,33 @@ body{
   font-family: sans-serif;
 }
 
+a{
+  color: #ffffff;
+}
+
+.navbar{
+  color: #95989a;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.navbar-light{
+  margin-top: 74px;
+}
 .subtitle{
+  margin-top: 159px;
   font-size: 20px;
   font-weight: 400;
 }
 
 .title{
+  margin-top: 14px;
   font-size: 48px;
   font-weight: 700;
+}
+
+.description{
+  margin-top: 26px;
 }
 
 .price-tag{
@@ -18,11 +37,19 @@ body{
   font-weight: 400;
 }
 
+.price-tag{
+  margin-top: 16px;
+}
+
 .price{
   font-size: 48px;
   font-weight: 400;
 }
 
+.main-image{
+  margin-top: 291px;
+  margin-right: 65px;
+}
 .main{
   margin-top: 100px;
 }
@@ -40,16 +67,27 @@ body{
 
 .about-block{
   margin-top: 100px;
-  padding-bottom: 112px;
+  padding-bottom: 131px;
 }
 
+.about-block_1{
+  margin-top: 64px;
+}
 .about-block_2{
   padding-bottom: 112px;
 }
 
 .section-subtitle{
+  margin-top: 90px;
   font-size: 20px;
   font-weight: 400;
+  margin-bottom: 13px;
+}
+
+.section-title{
+  color: #32325f;
+  font-size: 48px;
+  font-weight: 700;
 }
 
 .about_image{
@@ -71,6 +109,8 @@ footer{
 }
 
 .footer-title{
+  margin-top: 78px;
+  margin-bottom: 34px;
   color: #ffffff;
   font-size: 24px;
   font-weight: 700;
@@ -80,6 +120,7 @@ footer{
   font-size: 16px;
   font-weight: 700;
   line-height: 1.4;
+  text-decoration: none;
 }
 
 .information{
